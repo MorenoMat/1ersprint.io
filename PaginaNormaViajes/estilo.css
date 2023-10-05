@@ -1,0 +1,24 @@
+/*@import url(); */
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+ padding: 0;
+}
+
+body{
+    background-color: rgb(81, 173, 144);
+    background-image: url(logo.jpg) ;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+h1{background-color: blue;
+text-align: center;
+font-size: ;
+font-family:frankling 'Franklin Gothic Medium' ;
+fo
+
+}
+.puntodepartida {background-color: red;}
+ul li{ list-style: none;}
